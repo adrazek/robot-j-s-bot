@@ -1,0 +1,25 @@
+{
+  "name": "Robot(J)s-Bot",
+  "version": "0.0.1",
+  "description": "A example bot for Robot(J)s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrazek/robot-j-s-bot"
+  },
+  "keywords": [
+    "Robot(J)s",
+    "game",
+    "robot",
+    "developers",
+    "bot"
+  ],
+  "author": "Arnaud Drazek <adrazek@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/adrazek/robot-j-s-bot/issues"
+  }
+}
