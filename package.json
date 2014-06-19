@@ -21,5 +21,13 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/adrazek/robot-j-s-bot/issues"
+  },
+  "dependencies": {
+    "socket.io-client": "~1.0.4",
+    "colors": "~0.6.2",
+    "Robot(J)s": "git://github.com/adrazek/robot-j-s.git",
+    "moment": "~2.7.0",
+    "prompt": "~0.2.13",
+    "line-by-line": "~0.1.1"
   }
 }
